@@ -10,7 +10,9 @@ class DashboardController extends Controller
 {
     public function index()
     {
-        return view('partials.content');
+        $totalKursus = Kursus::count();
+        $totalMateri = Materis::count();
+        return view('partials.content', compact('totalKursus', 'totalMateri'));
     }
 
     public function kursus()

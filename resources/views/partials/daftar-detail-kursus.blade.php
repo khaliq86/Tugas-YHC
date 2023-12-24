@@ -27,8 +27,8 @@
       <td>{{$materi->deskripsi}}</td>
       <td>{{$materi->link_embed}}</td>
       <td>
-        {{-- <a href="{{route('edit-kursus', $kursus->id)}}" class="btn btn-warning">Edit</a>
-        <a href="{{route('hapus-kursus', $kursus->id)}}" class="btn btn-danger">Hapus</a> --}}
+        <a href="{{route('edit-materi', $materi->id)}}" class="btn btn-warning">Edit</a>
+      <a href="{{route('hapus-materi', $materi->id)}}" class="btn btn-danger">Hapus</a>
     </tr>
     @endforeach
   </tbody>
