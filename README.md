@@ -24,11 +24,11 @@ Halaman Detail Materi Kursus
 
 Halaman Edit Kursus
 
-![App Screenshot](<Screenshot/Edit-Kursus.png)
+![App Screenshot](Screenshot/Edit-Kursus.png)
 
 Halaman Daftar Materi
 
-![App Screenshot](<Screenshot/Daftar-Materi.png)
+![App Screenshot](Screenshot/Daftar-Materi.png)
 
 Halaman Update Materi
 
