@@ -10,26 +10,26 @@ Jalankan php artisan migrate --seed
 
 ## Screenshots
 
-![App Screenshot](Screenshot/Dashboard.png)
-
 Halaman Dashboard
 
-![App Screenshot](Screenshot/Daftar-Kursus.png)
+![App Screenshot](Screenshot/Dashboard.png)
 
 Halaman Daftar Kursus
 
-![App Screenshot](Screenshot/Daftar-Detail-Materi-Kursus.png)
+![App Screenshot](Screenshot/Daftar-Kursus.png)
 
 Halaman Detail Materi Kursus
 
-![App Screenshot](<Screenshot/Edit-Kursus.png)
+![App Screenshot](Screenshot/Daftar-Detail-Materi-Kursus.png)
 
 Halaman Edit Kursus
 
-![App Screenshot](<Screenshot/Daftar-Materi.png)
+![App Screenshot](<Screenshot/Edit-Kursus.png)
 
 Halaman Daftar Materi
 
-![App Screenshot](Screenshot/Update-Materi.png)
+![App Screenshot](<Screenshot/Daftar-Materi.png)
 
 Halaman Update Materi
+
+![App Screenshot](Screenshot/Update-Materi.png)
